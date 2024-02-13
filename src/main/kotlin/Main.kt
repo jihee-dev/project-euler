@@ -1,3 +1,3 @@
 fun main() {
-    println(problem1())
+    println(problem2())
 }
