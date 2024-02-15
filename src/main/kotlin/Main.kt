@@ -1,5 +1,5 @@
 package main.kotlin
 
 fun main() {
-    println(problem6())
+    println(problem9())
 }
